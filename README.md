@@ -1,7 +1,7 @@
 # Virtual-Artificial-Intelligence-genesis-
 I created My own Virtual Artificial Intelligence named genesis, He can assist with my Tasks and also perform some analysis,,
-full project Link
-https://www.mediafire.com/file/cw3hrgddvkgrxi2/Virtual-Artificial-Intelligence-genesis.zip/file
+Contact me for full project Link!!
+
 Commands:
 'play'
 "translate"
@@ -27,3 +27,10 @@ Commands:
  "type
  "want to know about'
 etc
+
+
+
+
+
+
+
